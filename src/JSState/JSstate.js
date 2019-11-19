@@ -61,7 +61,7 @@ export default class index extends Component {
                 <Card className={useStyles.card}>
       <CardContent>
         <Typography className={useStyles.title} color="textSecondary" gutterBottom>
-          Project Counter With Hooks
+          Project Counter With State
         </Typography>
         <Typography variant="h4">
          {number}
